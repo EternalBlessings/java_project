@@ -1,4 +1,3 @@
-<img width="515" height="473" alt="image" src="https://github.com/user-attachments/assets/70b2d312-8099-4420-8c22-e3a79793933b" /><img width="519" height="716" alt="image" src="https://github.com/user-attachments/assets/4e32547c-f957-4650-8c65-626edafc44fc" /><img width="503" height="688" alt="image" src="https://github.com/user-attachments/assets/93ba1c2e-a6d5-498e-8dc4-cac2687471a8" /><img width="474" height="672" alt="image" src="https://github.com/user-attachments/assets/31392734-b70c-49e6-8ad7-50471e4b5e98" /><img width="689" height="645" alt="image" src=“https://github.com/user-attachments/assets/4cb10ac3-779d-40f7-a27b-d193f4a26441” /><img width="393" height="337" alt="image" src=“https://github.com/user-attachments/assets/463ef593-5487-43dc-9e33-2e9569602dd8” /><img width="437" height="380" alt="image" src="https://github.com/user-attachments/assets/adba1048-88c5-4f72-adff-d904125d34cc" /># java_project
 纯Java课程设计，无框架。主题是租借充电宝系统，包含用户端和管理端。技术栈：Java+mysql
 觉得有需要可以点点start，谢谢！！！
 大一学Java的时候捣鼓的，技术不是很充足
@@ -23,6 +22,7 @@
 ![正在上传image.png…]()
 ![正在上传image.png…]()
 ![正在上传image.png…]()
+<imgwidth="515" height="473" alt="image" src="https://github.com/user-attachments/assets/70b2d312-8099-4420-8c22-e3a79793933b" /><imgwidth="519" height="716" alt="image" src="https://github.com/user-attachments/assets/4e32547c-f957-4650-8c65-626edafc44fc" /><imgwidth="503" height="688" alt="image" src="https://github.com/user-attachments/assets/93ba1c2e-a6d5-498e-8dc4-cac2687471a8" /><imgwidth="474" height="672" alt="image" src="https://github.com/user-attachments/assets/31392734-b70c-49e6-8ad7-50471e4b5e98" /><imgwidth="689" height="645" alt="image" src="https://github.com/user-attachments/assets/4cb10ac3-779d-40f7-a27b-d193f4a26441" /><imgwidth="393" height="337" alt="image" src="https://github.com/user-attachments/assets/463ef593-5487-43dc-9e33-2e9569602dd8" /><imgwidth="437" height="380" alt="image" src="https://github.com/user-attachments/assets/adba1048-88c5-4f72-adff-d904125d34cc" /># java_project
 
 
 
